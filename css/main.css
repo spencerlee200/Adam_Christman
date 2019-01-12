@@ -128,10 +128,10 @@ body {
 	z-index: -1;
 	display: block;
 	width: 80%;
-	height: 80vh;
+	height: 80%;
 
 	position: absolute;
-	top: 50%;
+	top: 52%;
 	left: 50%;
 	transform: translate(-50%, -47%);
 	background: rgba(248,197,208, 1);
