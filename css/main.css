@@ -310,8 +310,8 @@ input:checked + .slider:before {
 
 #title {
 	position: absolute;
-	top: 15px;
-	left: 30px;
+	top: 25px;
+	left: 15px;
 	writing-mode: vertical-rl;
 	text-orientation: upright;
 	font-size: 3em;
